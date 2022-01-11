@@ -1,5 +1,7 @@
 # NetNinja Tutorial on using Firebase
 
+deployed to <https://strava-firebase-auth.web.app>
+
 A simple web application to demonstrate using firebase with React for crud operations.
 
 - Firebase for authentication
